@@ -47,7 +47,7 @@ nav ul li a:hover{
 
 .details{
     margin-left: 8%;
-    margin-top: 15%;
+    margin-top: 7%;
 }
 
 .details h1{
@@ -57,12 +57,12 @@ nav ul li a:hover{
 }
 
 span{
-    color: orange;
+    color: pink;
     
 }
 
 .details p{
-    color: brown;
+    color: green;
     font-size: 20px;
     line-height: 22px;
 }
